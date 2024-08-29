@@ -60,6 +60,7 @@ MDN Web Docs: https://developer.mozilla.org/en-US/
 
 - CSS
 MDN Web Docs: https://developer.mozilla.org/en-US/
+<br>
 W3Schools: https://www.w3schools.com/css/
 
 - JavaScript
@@ -71,10 +72,10 @@ MDN Web Docs: https://developer.mozilla.org/en-US/
 ## Documentos do Repositório
 
 * [HTML](https://github.com/vitorVBD/Pokedex/blob/main/index.html)
-* [CSS]
+* CSS
     * [Global](https://github.com/vitorVBD/Pokedex/blob/main/assets/css/global.css)
     * [Pokedex](https://github.com/vitorVBD/Pokedex/blob/main/assets/css/pokedex.css)
-* [JavaScript]
+* JavaScript
     * [Main](https://github.com/vitorVBD/Pokedex/blob/main/assets/js/main.js)
     * [PokeApi](https://github.com/vitorVBD/Pokedex/blob/main/assets/js/poke-api.js)
     * [PokemonModel](https://github.com/vitorVBD/Pokedex/blob/main/assets/js/pokemon-model.js)
