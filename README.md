@@ -2,14 +2,14 @@
 
 ## Índice
 
-* [Introdução](#-Introdução)
-* [O que são Pokémon?](#-O-que-são-Pokémon?)
-* [Sobre este Projeto](#-Sobre-este-Projeto)
-    * [Objetivo](-#Objetivo)
-    * [Tecnologias Utilizadas](#-Tecnologias-Utilizadas)
-* [Materiais de Apoio](#-Materiais-de-Apoio)
-* [Documentação](#-Documentação)
-* [Contribuições](#-Contribuições)
+* [Introdução](#-introdução)
+* [O que são Pokémon?](#-o-que-são-Pokémon?)
+* [Sobre este Projeto](#-sobre-este-Projeto)
+    * [Objetivo](#-objetivo)
+    * [Tecnologias Utilizadas](#-tecnologias-Utilizadas)
+* [Materiais de Apoio](#-materiais-de-Apoio)
+* [Documentação](#-documentação)
+* [Contribuições](#-contribuições)
 
 ## Introdução
 
