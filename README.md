@@ -36,14 +36,10 @@ O principal objetivo deste projeto é criar uma ferramenta interativa e fácil d
 <a id="-tecnologias-Utilizadas"></a>
 ### Tecnologias Utilizadas
 
-HTML: Linguagem de marcação para estruturação do conteúdo da página.
-CSS: Linguagem de estilo para definir a aparência visual da Pokédex.
-JavaScript: Linguagem de programação para adicionar interatividade e dinamismo à aplicação.
-PokéAPI: API REST que fornece dados sobre os Pokémon, como nome, tipo, habilidades e sprites.
-Estrutura do Projeto
-index.html: Página principal da Pokédex.
-styles.css: Arquivo CSS com os estilos da aplicação.
-script.js: Arquivo JavaScript com a lógica da aplicação, responsável por fazer as requisições à PokéAPI e renderizar os dados na página.
+- HTML: Linguagem de marcação para estruturação do conteúdo da página.
+- CSS: Linguagem de estilo para definir a aparência visual da Pokédex.
+- JavaScript: Linguagem de programação para adicionar interatividade e dinamismo à aplicação.
+- PokéAPI: API REST que fornece dados sobre os Pokémon, como nome, tipo, habilidades e sprites.
 
 
 
@@ -60,14 +56,13 @@ A [PokéAPI](https://pokeapi.co/) é uma API REST pública que fornece dados sob
 ## Documentação
 
 - HTML
-<br>
 MDN Web Docs: https://developer.mozilla.org/en-US/
+
 - CSS
-<br>
 MDN Web Docs: https://developer.mozilla.org/en-US/
 W3Schools: https://www.w3schools.com/css/
+
 - JavaScript
-<br>
 MDN Web Docs: https://developer.mozilla.org/en-US/
 
 
