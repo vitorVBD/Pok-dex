@@ -9,6 +9,7 @@
     * [Tecnologias Utilizadas](#-tecnologias-Utilizadas)
 * [Materiais de Apoio](#-materiais-de-Apoio)
 * [Documentação](#-documentação)
+* [Documentos do Repositório](#--documentos-repositório)
 * [Contribuições](#-contribuições)
 
 
@@ -50,6 +51,7 @@ script.js: Arquivo JavaScript com a lógica da aplicação, responsável por faz
 ## Materiais de Apoio
 
 PokéAPI
+<br>
 A [PokéAPI](https://pokeapi.co/) é uma API REST pública que fornece dados sobre os Pokémon, incluindo informações básicas, sprites, tipos, habilidades, evoluções e muito mais. Esta API foi fundamental para a construção desta Pokédex, pois forneceu os dados necessários para criar uma experiência completa e precisa para o usuário.
 
 
@@ -57,13 +59,30 @@ A [PokéAPI](https://pokeapi.co/) é uma API REST pública que fornece dados sob
 <a id="-documentação"></a>
 ## Documentação
 
-HTML
+- HTML
+<br>
 MDN Web Docs: https://developer.mozilla.org/en-US/
-CSS
+- CSS
+<br>
 MDN Web Docs: https://developer.mozilla.org/en-US/
 W3Schools: https://www.w3schools.com/css/
-JavaScript
+- JavaScript
+<br>
 MDN Web Docs: https://developer.mozilla.org/en-US/
+
+
+
+<a id="-documentos-repositório"></a>
+## Documentos do Repositório
+
+* [HTML](https://github.com/vitorVBD/Pokedex/blob/main/index.html)
+* [CSS]
+    * [Global](https://github.com/vitorVBD/Pokedex/blob/main/assets/css/global.css)
+    * [Pokedex](https://github.com/vitorVBD/Pokedex/blob/main/assets/css/pokedex.css)
+* [JavaScript]
+    * [Main](https://github.com/vitorVBD/Pokedex/blob/main/assets/js/main.js)
+    * [PokeApi](https://github.com/vitorVBD/Pokedex/blob/main/assets/js/poke-api.js)
+    * [PokemonModel](https://github.com/vitorVBD/Pokedex/blob/main/assets/js/pokemon-model.js)
 
 
 
