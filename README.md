@@ -55,16 +55,10 @@ A [PokéAPI](https://pokeapi.co/) é uma API REST pública que fornece dados sob
 <a id="-documentação"></a>
 ## Documentação
 
-- HTML
-MDN Web Docs: https://developer.mozilla.org/en-US/
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://www.w3schools.com/css/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-- CSS
-MDN Web Docs: https://developer.mozilla.org/en-US/
-<br>
-W3Schools: https://www.w3schools.com/css/
-
-- JavaScript
-MDN Web Docs: https://developer.mozilla.org/en-US/
 
 
 
