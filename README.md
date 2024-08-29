@@ -3,11 +3,11 @@
 ## Índice
 
 * [Introdução](#-Introdução)
-* [O que são Pokémon?](#-O que são Pokémon?)
-* [Sobre este Projeto](#-Sobre este Projeto)
+* [O que são Pokémon?](#-O-que-são-Pokémon?)
+* [Sobre este Projeto](#-Sobre-este-Projeto)
     * [Objetivo](-#Objetivo)
-    * [Tecnologias Utilizadas](#-Tecnologias Utilizadas)
-* [Materiais de Apoio](#-Materiais de Apoio)
+    * [Tecnologias Utilizadas](#-Tecnologias-Utilizadas)
+* [Materiais de Apoio](#-Materiais-de-Apoio)
 * [Documentação](#-Documentação)
 * [Contribuições](#-Contribuições)
 
