@@ -9,7 +9,7 @@
     * [Tecnologias Utilizadas](#-tecnologias-Utilizadas)
 * [Materiais de Apoio](#-materiais-de-Apoio)
 * [Documentação](#-documentação)
-* [Documentos do Repositório](#--documentos-repositório)
+* [Documentos do Repositório](#-documentos-repositório)
 * [Contribuições](#-contribuições)
 
 
